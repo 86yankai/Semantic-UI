@@ -1,0 +1,7 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName          : 'Microsoft Yahei Light','Microsoft Yahei';
+
+@importGoogleFonts : false;
